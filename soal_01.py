@@ -1,0 +1,5 @@
+print("******************************************")
+print("PROGRAM PYTHON")
+print("OLEH: ADIFTYA")
+print("KELAS: X PPLG 2")
+print("******************************************")
